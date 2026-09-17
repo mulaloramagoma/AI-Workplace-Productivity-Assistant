@@ -29,7 +29,7 @@ cp .env.example .env   # optional — the app runs in demo mode without a key
 npm run dev
 ```
 
-The app starts on http://localhost:8080.
+The app starts on [http://localhost:8080](https://ai-resume-builder-jcxh.bolt.host/).
 
 ## Configuration
 
